@@ -1,0 +1,4 @@
+gateway.ip=192.168.1.13
+token.expiration_time=86400000
+token.secret=randomnumbers1234
+login.url.path=/users/login
